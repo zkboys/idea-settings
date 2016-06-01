@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="RadioButtonItem" type="JSX Harmony" />
+      <mapping pattern="sdf" type="PLAIN_TEXT" />
+      <mapping pattern=".qrsignore" type="PLAIN_TEXT" />
       <mapping pattern="RadioButtonItem.jsx" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
