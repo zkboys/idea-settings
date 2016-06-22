@@ -5,6 +5,7 @@
       <mapping pattern="RadioButtonItem.jsx" type="PLAIN_TEXT" />
       <mapping pattern=".qrsignore" type="PLAIN_TEXT" />
       <mapping pattern="sdf" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
